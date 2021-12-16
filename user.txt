@@ -1,0 +1,4 @@
+Create New Repository--创建新仓库
+Clone Existing Repository--克隆仓库
+Open Existing Repository--打开存在的一个仓库
+git --version --查看版本
